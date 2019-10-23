@@ -1,4 +1,6 @@
 # Apache Spark On Kubernetes
+Оргинальный репозитарий Блумберг  
+https://github.com/bloomberg/apache-spark-on-k8s  
 
 This repository, located at https://github.com/apache-spark-on-k8s/spark, contains a fork of Apache Spark that enables running Spark jobs natively on a Kubernetes cluster.
 
